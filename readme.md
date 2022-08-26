@@ -2,7 +2,7 @@
 
 ## freeCodeCamp_javaScript Solutions 🌄
 
-🌲This repo shows some solutions of JS related to activities.
+🌲 In this repository you can find solutions of JavaScript Algorithms and Data Structures in freeCodeCamp. 
 
 🔗 Also this workshop shows the evolution of my capabilities.
 
